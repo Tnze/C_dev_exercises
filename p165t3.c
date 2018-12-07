@@ -1,3 +1,6 @@
+/*
+    求一个3*3的整型矩阵对角线元素之和。
+*/
 #include <stdio.h>
 
 int main(void)

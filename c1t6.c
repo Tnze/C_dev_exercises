@@ -1,3 +1,6 @@
+/*
+    编写一个C程序，运行时输入a,b,c三个值，输出其中值最大着。
+*/
 #include <stdio.h>
 
 int max(int a, int b)

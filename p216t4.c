@@ -1,3 +1,6 @@
+/*
+    写一个函数，使给定的一个3*3的二维整型数组转置，即行列互换。
+*/
 #include <stdio.h>
 
 void swap(int *a, int *b)
