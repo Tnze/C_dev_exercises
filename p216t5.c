@@ -1,5 +1,5 @@
 /*
-    写一个函数，使输入的一个字符串按反序存放，在祝函数中输入和输出字符串。
+    写一个函数，使输入的一个字符串按反序存放，在主函数中输入和输出字符串。
 */
 #include <stdio.h>
 
@@ -29,6 +29,5 @@ int main(void)
     fjxu(array, len);
 
     //输出
-    printf("%s", array);
-    printf("\n");
+    printf("%s\n", array);
 }
